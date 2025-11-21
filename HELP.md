@@ -27,4 +27,4 @@ If you manually switch to a different parent and actually want the inheritance, 
 
 ### Datos del Ejercicio
 URL: https://www.youtube.com/watch?v=l-Bl45I6UEY&t=1242s
-Time Work: https://youtu.be/l-Bl45I6UEY?t=2360
+Time Work: https://youtu.be/l-Bl45I6UEY?t=2779

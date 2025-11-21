@@ -22,7 +22,6 @@ public class DetalleVenta {
 
     @ManyToOne                  // Indica que muchas DetalleVentas estan asociadas a un Producto
     private Producto prod;      // Establecemos la relación en hay entre la DetalleVenta y el Producto
-
     private Integer cantProd;
     private Double preicio;
 

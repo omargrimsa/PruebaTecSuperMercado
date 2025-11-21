@@ -18,6 +18,8 @@ public class Venta {
     private Long id;
     private LocalDate fecha;
     private String estado;
+    private Double total;
+
 
     // Establecemos la relación en hay entre la Venta y la Sucursal
     @ManyToOne      //  Indica que muchas Ventas estan asociadas a una Sucursal
